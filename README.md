@@ -1,6 +1,8 @@
 ### Hi there 👋, My name is Ali Uludag
 #### I am Freelancer
 
+Laravel Ecommerce Project 
+
 
 I made this project just for educational and entertainment purposes.
 ###
@@ -56,9 +58,6 @@ All Features
 ⚡Graphic product category value colors can be arranged by selecting a color from the product category list. <br>
 ⚡Graphic product value colors can be arranged by selecting a color from the product category list. <br>
 ⚡Graphic product value colors values color is randomly generated <br>
-⚡ <br>
-
-
 </p>
 
 
@@ -71,7 +70,6 @@ Products Filter Page:
 ⚡when page history forward and back button is pressed, part of page updating with ajax happens without  page reload  <br>
 ⚡Product color is based on size. Product colors are listed according to this criterion<br>
 ⚡Responsive page control<br>
-
 </p>
 
 
@@ -129,12 +127,12 @@ Report Page:
 Order filtering:
 ###
 <p align="left">
-⚡-Size,Color,Style,Price base<br>
-⚡-Product,Category,Stock(max,min)<br>
-⚡-Multi Select Order Status tracking (New,Pending,In_Process,Shipped,Delivered,Canceled,Paid)<br>
-⚡-Paymend Select: Paybal,Cod,All<br>
-⚡-Date Order Select: Year,Month,Day<br>
-⚡-Group Select :Product,Category  <br>
+⚡Size,Color,Style,Price base<br>
+⚡Product,Category,Stock(max,min)<br>
+⚡Multi Select Order Status tracking (New,Pending,In_Process,Shipped,Delivered,Canceled,Paid)<br>
+⚡Paymend Select: Paybal,Cod,All<br>
+⚡Date Order Select: Year,Month,Day<br>
+⚡Group Select :Product,Category  <br>
 </p>
 
 
@@ -152,13 +150,13 @@ Report Chart Page:
 Order filtering:
 ###
 <p align="left">
-⚡-Size,Color,Style,Price base<br>
-⚡-Product,Category,Stock(max,min)<br>
-⚡-Multi Select Order Status tracking (New,Pending,In_Process,Shipped,Delivered,Canceled,Paid)<br>
-⚡-Paymend Select: Paybal,Cod,All<br>
-⚡-User Select<br>
-⚡-Date Order Select: Year,Month,Day<br>
-⚡-Group Select :Product,Category<br>
+⚡Size,Color,Style,Price base<br>
+⚡Product,Category,Stock(max,min)<br>
+⚡Multi Select Order Status tracking (New,Pending,In_Process,Shipped,Delivered,Canceled,Paid)<br>
+⚡Paymend Select: Paybal,Cod,All<br>
+⚡User Select<br>
+⚡Date Order Select: Year,Month,Day<br>
+⚡Group Select :Product,Category<br>
 </p>
 
 
@@ -175,14 +173,6 @@ contact:  cemaliden41@gmail.com
 ###
 Thanks for your time.
 ###
-
-
-
-
-
-
-
-
 
 
 <div align="center">
