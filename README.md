@@ -13,8 +13,7 @@
 
 Skills: VUE JS / REACT / JS / HTML / CSS /PHP
 
-###
-Laravel Ecommerce Project
+#### Laravel Ecommerce Project
 
 ###
 
