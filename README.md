@@ -17,8 +17,8 @@ I made this project just for educational and entertainment purposes.
 
 Skills: VUE JS / REACT / JS / HTML / CSS /PHP
 
-###
-All Features
+
+#### All Features
 ###
 <p align="left">
 ⚡High quality source code<br>
@@ -59,9 +59,7 @@ All Features
 ⚡Graphic product value colors values color is randomly generated <br>
 </p>
 
-
-###
-Products Filter Page:
+####Products Filter Page:
 ###
 <p align="left">
 ⚡Size,Color,Style,Price,Pagination,Sort filtering process<br>
@@ -71,10 +69,7 @@ Products Filter Page:
 ⚡Responsive page control<br>
 </p>
 
-
-
-###
-Dashboard Page:
+#### Dashboard Page:
 ###
 <p align="left">
 ⚡Graphical (chart  Frequency Hz) tracking Total qty of Orders on a Monthly Category basis.<br>
@@ -83,9 +78,7 @@ Dashboard Page:
 ⚡Managing User roles, accounts, and permissions :Create some roles,Create some permissions, Give permission(s) to a role, Create user(s) with role.<br>
 </p>
 
-
-###
-Products Enter Page:
+#### Products Enter Page:
 ###
 <p align="left">
 ⚡Filtering products control base size,color,style,Category<br>
@@ -94,10 +87,7 @@ Products Enter Page:
 ⚡Product attributes enter: Determining price and SKU of products  by color and size<br>
 </p>
 
-
-
-###
-Order Enter:
+#### Order Enter:
 ###
 <p align="left">
 ⚡Stock-controlled product adding, deleting, changing operations are done.<br>
@@ -107,12 +97,7 @@ Order Enter:
 ⚡Order Detail view button with Billing Address,Customer Detail,Shipping Address,Order Products List(SKU,Product Name,Size,Color,Price,Qty)<br>
 </p>
 
-
-
-
-
-###
-Report Page:
+#### Report Page:
 ###
 <p align="left">
 ⚡Total order qty, total order amount and Total stock would track Category group or Product group basing by monthly, diary, yearly.<br>
@@ -121,9 +106,7 @@ Report Page:
 ⚡Export report to pdf and excel format<br>
 </p>
 
-
-###
-Order filtering:
+#### Order filtering:
 ###
 <p align="left">
 ⚡Size,Color,Style,Price base<br>
@@ -135,8 +118,7 @@ Order filtering:
 </p>
 
 
-###
-Report Chart Page:
+#### Report Chart Page:
 ###
 <p align="left">
 ⚡its able to Track Total Order Amound or quantity and Percentage by Date(monthly, diary, yearly)  base Category or Product with axix or vertical chart
@@ -145,8 +127,7 @@ Report Chart Page:
 
 
 
-###
-Order filtering:
+#### Order filtering:
 ###
 <p align="left">
 ⚡Size,Color,Style,Price base<br>
@@ -157,9 +138,6 @@ Order filtering:
 ⚡Date Order Select: Year,Month,Day<br>
 ⚡Group Select :Product,Category<br>
 </p>
-
-
-
 
 ###
 Feel free to get in touch with any questions
