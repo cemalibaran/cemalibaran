@@ -1,10 +1,6 @@
 ### Hi there 👋, My name is Ali Uludag
 #### I am Freelancer
 
-Laravel Ecommerce Project 
-
-
-I made this project just for educational and entertainment purposes.
 #### My channel
 <div align="left">
   
@@ -16,6 +12,18 @@ I made this project just for educational and entertainment purposes.
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS /PHP
+
+###
+Laravel Ecommerce Project
+
+###
+
+###
+Tools: LaraveL 9 Php Framework,Bootstrap 5,Mysql and Ajax Jquery, Docker.
+###
+
+I made this project just for educational and entertainment purposes.
+
 
 
 #### All Features
