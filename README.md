@@ -5,8 +5,7 @@ Laravel Ecommerce Project
 
 
 I made this project just for educational and entertainment purposes.
-###
-My channel
+#### My channel
 <div align="left">
   
   <a href="https://www.youtube.com/watch?v=k6X3GkgJBxk" target="_blank">
@@ -166,8 +165,8 @@ Order filtering:
 Feel free to get in touch with any questions
 ###
 
-###
-contact:  cemaliden41@gmail.com
+
+#### contact:  cemaliden41@gmail.com
 ###
 
 ###
