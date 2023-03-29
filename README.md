@@ -10,13 +10,13 @@
 
 </div>
 
-
 Skills: VUE JS / REACT / JS / HTML / CSS /PHP
 
-
 <p align="left" style="border: 1px solid #f00;" >
-<h1>Laravel Ecommerce Project</h1>
+<h1>E-commerce advanced course with Laravel
+</h1>
 </p>
+
 
 
 
