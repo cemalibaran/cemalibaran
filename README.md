@@ -22,7 +22,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS /PHP
 
 
 ###
-Tools: LaraveL 9 Php Framework,Bootstrap 5,Mysql and Ajax Jquery, Docker.
+Tools: LaraveL Php Framework,Bootstrap 5,Mysql and Ajax Jquery, Docker.
 ###
 
 I made this project just for educational and entertainment purposes.
