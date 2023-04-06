@@ -33,16 +33,16 @@
 
 
 <p align="left" style="border: 1px solid #f00;" >
-<h1>E-commerce advanced course with Laravel
-</h1>
+<h1>E-commerce advanced course with Laravel</h1> 
 </p>
 
-
-
+###
+The content of the training is on my youtube channel
+###
 
 
 ###
-Tools: LaraveL Php Framework,Bootstrap 5,Mysql and Ajax Jquery, Docker.
+Tools: Laravel Php Framework,Bootstrap 5,Mysql and Ajax Jquery, NodeJS, Docker.
 ###
 
 I made this project just for educational and entertainment purposes.
