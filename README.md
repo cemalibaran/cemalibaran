@@ -15,7 +15,7 @@
 
 <p dir="auto">Until now</p>
 <ul dir="auto">
-<li>For Frontend: HTML, CSS, Javascript, Bootstrap, jQuery, VUE JS, REACT </li>
+<li>For Frontend: HTML, CSS, Javascript, Bootstrap, jQuery, Vue Js, React </li>
 <li>For Backend : ASP, ASP.NET, PHP</li>
 <li>For Database: MySQL, SQLServer, Firebird</li>
 <li>For Desktop : C#, WPF ,Delphi I used</li>
