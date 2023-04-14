@@ -53,6 +53,7 @@ I made this project just for educational and entertainment purposes.
 
 <ul dir="auto">
 <li>High quality source code</li>
+<li>SEO friendly content</li>  
 <li>javascript, jquery, bootstrap 5 and css for the front-end.</li>
 <li>Easily deploy your application with Docker </li>
 <li>Awesome Cart package that uses session,Responsive screen sizes</li>
