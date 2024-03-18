@@ -31,7 +31,7 @@
 <p dir="auto">Updated 18.03.2024</p>
 <ul dir="auto">
 <li>Annual, monthly, daily sales quantities and amounts of products by <strong>departments</strong> and <strong>regions</strong> can be tracked graphically</li>
-<li>I am designing a blog site with the wizard where the user can create content by selecting a template without using editor packages.
+<li>There are 4 filter sessions. Filters are stored locally.Filters Dashboard,Order,Order Report,Order Chart sections are directly accessible.
 </li>
 </ul>
 
