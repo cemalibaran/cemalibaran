@@ -28,15 +28,22 @@
 </ul>
 
 
-<p dir="auto">Updated 18.03.2024</p>
+<h2 dir="auto"><a id="user-content-table-of-contents" class="anchor" aria-hidden="true" href="#table-of-contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Updated 18.03.2024</h2>
 <ul dir="auto">
-<li>Annual, monthly, daily sales quantities and amounts of products by <strong>departments</strong> and <strong>regions</strong> can be tracked graphically</li>
-<li>There are 4 filter sessions. Filters are stored locally.Filters Dashboard,Order,Order Report,Order Chart sections are directly accessible.</li>
+<li>Annual, monthly, daily sales quantities and amounts of products by ${\textsf{\color{red}Departments}}$ and ${\textsf{\color{red}Regions}}$ can be tracked graphically</li>
+<li>There are ${\textsf{\color{red}\Large{4 filter sessions} }}$. Filters are stored locally.Filters Dashboard,Order,Order Report,Order Chart sections are directly accessible.</li>
 
-<li> <p align="left" style="background-color: red; border: 1px solid #f00;" >
-<h1>Cost-control in E-commerce</h1> 
-</p>
-</li>
+</ul>
+
+
+<h3>${\textsf{\color{red}Cost-control in E-commerce}}$</h3>
+
+
+
+
+
+
+<ul dir="auto">
 <li>The system is now able to answer all Cost-control in E-commerce questions graphically in the Dashboard section</li>
 <li>sample</li>
 <li>1) product or category that have underperformed for two consecutive years </li>
