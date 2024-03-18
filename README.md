@@ -31,8 +31,35 @@
 <p dir="auto">Updated 18.03.2024</p>
 <ul dir="auto">
 <li>Annual, monthly, daily sales quantities and amounts of products by <strong>departments</strong> and <strong>regions</strong> can be tracked graphically</li>
-<li>There are 4 filter sessions. Filters are stored locally.Filters Dashboard,Order,Order Report,Order Chart sections are directly accessible.
+<li>There are 4 filter sessions. Filters are stored locally.Filters Dashboard,Order,Order Report,Order Chart sections are directly accessible.</li>
+
+<li> <p align="left" style="background-color: red; border: 1px solid #f00;" >
+<h1>Cost-control in E-commerce</h1> 
+</p>
 </li>
+<li>The system is now able to answer all Cost-control in E-commerce questions graphically in the Dashboard section</li>
+<li>sample</li>
+<li>1) product or category that have underperformed for two consecutive years </li>
+<li>2) Products or Product categories with a significant decrease in sales between the previous year and this year.</li>
+
+<li>sample: Based on products or product categories</li>
+<li>* For each product and product type category (Mens Wear - Casual Shirts, Mens Wear - Formal Shirts, Womens Wear - Formal Dress) </li>
+<li>* according to the month of the year </li>
+<li>* In four distribution cities (Istanbul, Ankara, Izmir and Antalya regions) </li>
+<li>* For the years 2022 and 2023 </li>
+
+<li>They asked us to look at product performance over this two-year period.</li>
+<li>1) Which product group  the significant decreases in sales from 2020 to 2021.</li>
+<li>2) What are the sales figures and percentages for the last 3 months?</li>
+<li>3) Which product group has the highest decrease in sales in the last 3 months?</li>
+<li>4) What are the numbers and amounts of sales by years?</li>
+<li>5) What is the percentage of sales in the last 2 years?</li>
+<li>6) Which of the products in the Mens Wear - Casual Shirts category have sold more than 20 units in the last month?</li>
+<li>vb...</li>
+
+
+
+
 </ul>
 
 
