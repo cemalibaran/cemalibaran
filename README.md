@@ -30,8 +30,16 @@
 
 <h2 dir="auto"><a id="user-content-table-of-contents" class="anchor" aria-hidden="true" href="#table-of-contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Updated 18.03.2024</h2>
 <ul dir="auto">
-<li>Annual, monthly, daily sales quantities and amounts of products by ${\textsf{\color{red}Departments}}$ and ${\textsf{\color{red}Regions}}$ can be tracked graphically</li>
-<li>There are ${\textsf{\color{red}\Large{4 filter sessions} }}$. Filters are stored locally.Filters Dashboard,Order,Order Report,Order Chart sections are directly accessible.</li>
+
+<li>A - Annual, monthly, daily sales percentages of selected products on a ${\textsf{\color{red}general}}$, ${\textsf{\color{red}regional}}$ and ${\textsf{\color{red}departmental}}$ basis</li>
+
+<li>B - Annual, monthly and daily sales rates of selected products by category on ${\textsf{\color{red}general}}$, ${\textsf{\color{red}regional}}$ and ${\textsf{\color{red}departmental}}$ basis</li>
+
+<li>Ability to display these(A,B) values with their arguments in a single chart</li>
+
+</br>
+
+<li>-There are ${\textsf{\color{red}\Large{4 filter sessions} }}$. Filters are stored locally.Filters Dashboard,Order,Order Report,Order Chart sections are directly accessible.</li>
 
 </ul>
 
@@ -40,14 +48,8 @@
 
 
 
-
-
-
 <ul dir="auto">
 <li>The system is now able to answer all Cost-control in E-commerce questions graphically in the Dashboard section</li>
-<li>sample</li>
-<li>1) product or category that have underperformed for two consecutive years </li>
-<li>2) Products or Product categories with a significant decrease in sales between the previous year and this year.</li>
 
 <li>sample: Based on products or product categories</li>
 <li>* For each product and product type category (Mens Wear - Casual Shirts, Mens Wear - Formal Shirts, Womens Wear - Formal Dress) </li>
@@ -56,12 +58,13 @@
 <li>* For the years 2022 and 2023 </li>
 
 <li>They asked us to look at product performance over this two-year period.</li>
-<li>1) Which product group  the significant decreases in sales from 2020 to 2021.</li>
-<li>2) What are the sales figures and percentages for the last 3 months?</li>
-<li>3) Which product group has the highest decrease in sales in the last 3 months?</li>
-<li>4) What are the numbers and amounts of sales by years?</li>
-<li>5) What is the percentage of sales in the last 2 years?</li>
-<li>6) Which of the products in the Mens Wear - Casual Shirts category have sold more than 20 units in the last month?</li>
+<li>1) product or category that have underperformed for two consecutive years </li>
+<li>2) Which product group  the significant decreases in sales from 2020 to 2021.</li>
+<li>3) What are the sales figures and percentages for the last 3 months?</li>
+<li>4) Which product group has the highest decrease in sales in the last 3 months?</li>
+<li>5) What are the numbers and amounts of sales by years?</li>
+<li>6) What is the percentage of sales in the last 2 years?</li>
+<li>7) Which of the products in the Mens Wear - Casual Shirts category have sold more than 20 units in the last month?</li>
 <li>vb...</li>
 
 
