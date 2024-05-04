@@ -11,7 +11,7 @@
 </div>
 
 
-#### My Last Project:Cost Control E-commerce Website in laravel (Updated 18.03.2024)
+#### My Last Project: Cost Control E-commerce Website in laravel (Updated 18.03.2024)
 <div align="left">
   
   <a href="https://www.youtube.com/watch?v=VOjSqDU5vLs" target="_blank">
