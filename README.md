@@ -12,6 +12,7 @@
 
 
 #### My Last Project: Cost Control E-commerce Website in laravel (Updated 18.03.2024)
+İktisat,Endüstri,Muhasebe ve Finans Yönetimi mezunları için🧿Maliyet Kontrolörü🧿web yazılım eğitim kursu #costcontroller Türkiye de bir ilk
 <div align="left">
   
   <a href="https://www.youtube.com/watch?v=VOjSqDU5vLs" target="_blank">
