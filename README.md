@@ -13,6 +13,44 @@
 
 #### My Last Project: Cost Control E-commerce Website in laravel (Updated 18.03.2024)
 İktisat,Endüstri,Muhasebe ve Finans Yönetimi mezunları için🧿Maliyet Kontrolörü🧿web yazılım eğitim kursu #costcontroller Türkiye de bir ilk
+
+Üretim,hizmet sektöründe(hotel,ağırlama vb..) faaliyet gösteren şirketlerde “Maliyet Kontrolörü” görevinde çalışanlar için  tasarlanan web yazılım eğtimi kursu. Türkiye de ilk uygulanacak olan bir kursdur.  
+
+Üniversitelerin ilgili bölümlerinden mezun, (End.Müh. İşletme, İktisat vb...)
+Üretim, hizmet odaklı firmaların muhasebe, finans departmanlarında 2-5 yıl çalışmış arkadaşlar bu kursa katılabilir.
+
+👉 Muhasebe yazılımının uygulanması ve maliyet kontrol sistemlerinin otomatikleştirilmesi Maliyet Kontrolörünün ana görevidir.
+Veri bu muhasebe yazılımlarından excel olarak alınır. İstenilen sunum haline getirilir.
+
+👉 Daha ölçeklendirilebilir bir sistemde Excel yetersiz kalır. Exel, Manuel veri giriş ve Raporlama işlemlerini otomatikleştiremez. Veri bütünlüğünü sağlamak zaman alır.
+
+Bu eğitim sonunda;
+
+👉 Maliyet Kontrölcü, exelden bağımsız açık kaynak kodlu web yazılım(backend:Laravel framework) ile ERP üretebilir ve Rutin yapılan işlemleri otomatik haline getirebilir.
+
+👉 Yazılım da departmanların iş süreçlerinde ki değişkenleri ve sabitleri belirleyip kod yazmaya başlayabilir. İşin sonunda ERP iş süreçlerini kisa videolarla eğitim haline getirip geleceğe dinamik,geliştirebilir miraslı bir iş bırakabilir. 
+Ürettiğiniz CRM sayesinde kullanıcı gerçek zamanlı bilgilere anında erişim sağlar. 
+
+👉 Ürün veya ürün gruplarını geçmiş yıllardaki hareketlerini referans alarak 
+gerçek zamanlı similasyona sokabilir. Ürünlerin tükenme miktarlarını sanal olarak değiştirip yıllık,aylık,günlük maliyetlerin genele,departmanlara ve ürün categorilerine nasıl yansıdğını anında grafiksel olarak görebilir.
+
+👉 Veri bütünlüğü için geçmiş yıllara ait veriler sisteme aktarılarak yıl, ay, gün grubunda ürünü, ürün kategorisinde ve genel tüm ürünler bazında departmanlarda ve genelde analizlere ulaşabilir.
+
+👉 Sistemin backend tarafında Laravel framework kullanılacak. (açık kaynak kodlu kolay kullanım özellikli) Laravel her yıl kendini geliştiriyor milyonlarca kullanıcısı var. Gelişmeleri takip ederek sistemi anlık olarak daha güncel ve güçlü hale getirebilirsiniz.
+
+👉 Şirketin harcamalarını denetleme ve optimize etmede. Maliyetlerin analiz edilmesinde, maliyet tasarrufu fırsatları için alanların belirlenmesinde ve şirketin karlılığını artırmak için stratejileri belirlemmesinde sizin
+web yazılımınız (ERP) anında size gerçek zamanlı cevap verir.
+
+👉 “Live usb persistence” ve docker sayesinde projenizi usb ile güvenli bir şekilde (şifreli) istediğiniz bilgisayarda çalıştırabileceksiniz!
+
+👉 Dilerseniz usb'nizi modem üzerinden ev, işyeri vb. yerlerde sunucu haline getirebilirsiniz. Projenize internet üzerinden de erişebilirsiniz.
+(en az 64 GB kapasiteli usb bellek yeterlidir)
+
+👉 Dersler uzaktan online olarak yapılacaktır. Kurs süresi 2 ay olarak planlanmıştır.
+
+👉 Bu videodaki kodlara tamamen hakim olup kod üretebileceksiniz.
+
+
 <div align="left">
   
   <a href="https://www.youtube.com/watch?v=VOjSqDU5vLs" target="_blank">
