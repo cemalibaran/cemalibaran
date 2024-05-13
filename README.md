@@ -1,7 +1,10 @@
 ### Hi there 👋, My name is Ali Uludag
 #### I am Freelancer
 
-#### E-commerce Website in laravel
+
+#### My Last Project : İktisat,Endüstri,Muhasebe ve Finans Yönetimi mezunları için🧿Maliyet Kontrolörü🧿web yazılım eğitim kursu #costcontroller Türkiye de bir ilk
+#### Cost Control E-commerce Website in laravel (Updated 18.03.2024)
+
 <div align="left">
   
   <a href="https://www.youtube.com/watch?v=k6X3GkgJBxk" target="_blank">
@@ -10,9 +13,6 @@
 
 </div>
 
-
-#### My Last Project: Cost Control E-commerce Website in laravel (Updated 18.03.2024)
-İktisat,Endüstri,Muhasebe ve Finans Yönetimi mezunları için🧿Maliyet Kontrolörü🧿web yazılım eğitim kursu #costcontroller Türkiye de bir ilk
 
 Üretim,hizmet sektöründe(hotel,ağırlama vb..) faaliyet gösteren şirketlerde “Maliyet Kontrolörü” görevinde çalışanlar için  tasarlanan web yazılım eğtimi kursu. Türkiye de ilk uygulanacak olan bir kursdur.  
 
@@ -51,13 +51,7 @@ web yazılımınız (ERP) anında size gerçek zamanlı cevap verir.
 👉 Bu videodaki kodlara tamamen hakim olup kod üretebileceksiniz.
 
 
-<div align="left">
-  
-  <a href="https://www.youtube.com/watch?v=VOjSqDU5vLs" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
 
-</div>
 
 
 
@@ -68,7 +62,7 @@ web yazılımınız (ERP) anında size gerçek zamanlı cevap verir.
 <p dir="auto">Until now</p>
 <ul dir="auto">
 <li>For Frontend: HTML, CSS, Javascript, Bootstrap, jQuery, Vue Js, React </li>
-<li>For Backend : ASP, ASP.NET, PHP</li>
+<li>For Backend : PHP,LARAVEL FRAMEWORK,C$,ASP.NET,NET CORE</li>
 <li>For Database: MySQL, SQLServer, Firebird</li>
 <li>For Desktop : C#, WPF ,Delphi I used</li>
 </ul>
