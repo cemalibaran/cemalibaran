@@ -2,8 +2,7 @@
 #### I am Freelancer
 
 
-#### My Last Project : İktisat,Endüstri,Muhasebe ve Finans Yönetimi mezunları için🧿Maliyet Kontrolörü🧿web yazılım eğitim kursu #costcontroller Türkiye de bir ilk
-#### Cost Control E-commerce Website in laravel (Updated 18.03.2024)
+#### My Last Project : E-commerce Advanced Full Course with Laravel
 
 <div align="left">
   
@@ -13,42 +12,47 @@
 
 </div>
 
+🌟 Web software training course designed for those who work as “Cost Controller” in companies operating in the production, service sector (hotel, hospitality, etc.). It is a course that will be the first in Turkey. 
 
-Üretim,hizmet sektöründe(hotel,ağırlama vb..) faaliyet gösteren şirketlerde “Maliyet Kontrolörü” görevinde çalışanlar için  tasarlanan web yazılım eğtimi kursu. Türkiye de ilk uygulanacak olan bir kursdur.  
+Graduated from the relevant departments of universities (End.Eng. Business Administration, Economics etc...)
+Friends who have worked in the accounting and finance departments of production and service-oriented companies for at least 1 year can participate in this course.
 
-Üniversitelerin ilgili bölümlerinden mezun, (End.Müh. İşletme, İktisat vb...)
-Üretim, hizmet odaklı firmaların muhasebe, finans departmanlarında 2-5 yıl çalışmış arkadaşlar bu kursa katılabilir.
+👉 Today, it is inevitable that business processes will move to robotic, artificial intelligence environment. The companies will want to protocolize the functions of business processes and give them to the robotic environment.
 
-👉 Muhasebe yazılımının uygulanması ve maliyet kontrol sistemlerinin otomatikleştirilmesi Maliyet Kontrolörünün ana görevidir.
-Veri bu muhasebe yazılımlarından excel olarak alınır. İstenilen sunum haline getirilir.
+👉 This training that teaches how to make business processes functional,
+Provides the foundation to regularly apply robotic process automation (RPA), artificial intelligence (AI) and machine learning (ML) technologies.
 
-👉 Daha ölçeklendirilebilir bir sistemde Excel yetersiz kalır. Exel, Manuel veri giriş ve Raporlama işlemlerini otomatikleştiremez. Veri bütünlüğünü sağlamak zaman alır.
+🍀 You will work on a top-level e-commerce project.
+🍀 This will allow you to see all the manipulations in data presentation and data extraction in working life.
+🍀 Your future projects will inherit from this top-level work.
 
-Bu eğitim sonunda;
+👉 Implementation of accounting software and automation of cost control systems is the main task of the Cost Controller. Data is taken from these accounting software as excel. It is transformed into the desired presentation.
 
-👉 Maliyet Kontrölcü, exelden bağımsız açık kaynak kodlu web yazılım(backend:Laravel framework) ile ERP üretebilir ve Rutin yapılan işlemleri otomatik haline getirebilir.
+👉 In a more scalable system Excel is insufficient. Exel cannot automate manual data entry and reporting. It takes time to ensure data integrity.
 
-👉 Yazılım da departmanların iş süreçlerinde ki değişkenleri ve sabitleri belirleyip kod yazmaya başlayabilir. İşin sonunda ERP iş süreçlerini kisa videolarla eğitim haline getirip geleceğe dinamik,geliştirebilir miraslı bir iş bırakabilir. 
-Ürettiğiniz CRM sayesinde kullanıcı gerçek zamanlı bilgilere anında erişim sağlar. 
+At the end of this training;
 
-👉 Ürün veya ürün gruplarını geçmiş yıllardaki hareketlerini referans alarak 
-gerçek zamanlı similasyona sokabilir. Ürünlerin tükenme miktarlarını sanal olarak değiştirip yıllık,aylık,günlük maliyetlerin genele,departmanlara ve ürün categorilerine nasıl yansıdğını anında grafiksel olarak görebilir.
+👉 Cost Controller can produce ERP with exel-independent open source web software (backend: Laravel framework) and automate routine operations.
 
-👉 Veri bütünlüğü için geçmiş yıllara ait veriler sisteme aktarılarak yıl, ay, gün grubunda ürünü, ürün kategorisinde ve genel tüm ürünler bazında departmanlarda ve genelde analizlere ulaşabilir.
+👉 Determine the variables and constants in the business processes of the departments in the software and start writing code. At the end of the work, ERP can turn business processes into training with short videos and leave a dynamic, developable legacy business for the future. 
+Thanks to the ERP you produce, the user has instant access to real-time information. 
 
-👉 Sistemin backend tarafında Laravel framework kullanılacak. (açık kaynak kodlu kolay kullanım özellikli) Laravel her yıl kendini geliştiriyor milyonlarca kullanıcısı var. Gelişmeleri takip ederek sistemi anlık olarak daha güncel ve güçlü hale getirebilirsiniz.
+👉 By referring to the movements of products or product groups in previous years can simulate in real time. It can change the depletion amounts of the products virtually and instantly see graphically how the annual, monthly, daily costs are reflected in general, departments and product categories.
 
-👉 Şirketin harcamalarını denetleme ve optimize etmede. Maliyetlerin analiz edilmesinde, maliyet tasarrufu fırsatları için alanların belirlenmesinde ve şirketin karlılığını artırmak için stratejileri belirlemmesinde sizin
-web yazılımınız (ERP) anında size gerçek zamanlı cevap verir.
+👉 For data integrity, data from previous years can be transferred to the system and analyzed on the basis of year, month, day group product, product category and all products in general and departments.
 
-👉 “Live usb persistence” ve docker sayesinde projenizi usb ile güvenli bir şekilde (şifreli) istediğiniz bilgisayarda çalıştırabileceksiniz!
+👉 Laravel framework will be used on the backend side of the system. (open source code with easy-to-use features) Laravel develops itself every year and has millions of users.By following the developments, you can instantly make the system more up-to-date and powerful.
 
-👉 Dilerseniz usb'nizi modem üzerinden ev, işyeri vb. yerlerde sunucu haline getirebilirsiniz. Projenize internet üzerinden de erişebilirsiniz.
-(en az 64 GB kapasiteli usb bellek yeterlidir)
+👉 In auditing and optimizing the company's expenses. 
+Your web software (ERP) instantly responds to you in real time to analyze costs, identify areas for cost saving opportunities and strategies to increase the company's profitability.
 
-👉 Dersler uzaktan online olarak yapılacaktır. Kurs süresi 2 ay olarak planlanmıştır.
+👉 Thanks to “Live usb persistence” and “docker”, you can run your project securely (encrypted) on any computer you want with usb (BOOT USB Memory at computer startup) and make code changes. Your working environment and operating system on a single usb. 
 
-👉 Bu videodaki kodlara tamamen hakim olup kod üretebileceksiniz.
+👉 If you wish, you can access your usb via modem at home, workplace, etc. You can also access it over the internet with remote desktop connection in places such as home, workplace, etc. (at least 64 GB capacity usb memory is sufficient) 
+
+👉 Classes will be held remotely online. Course duration is planned for 2 months.
+
+👉 You will be able to completely master the codes in this video and produce code.
 
 
 
